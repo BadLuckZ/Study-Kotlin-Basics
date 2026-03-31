@@ -1,3 +1,5 @@
+package basic
+
 fun main(){
     // Immutable Map: Map<DataType1, DataType2>
     val readOnlyMenu: Map<String, Int> = mapOf("Apple" to 100, "Kiwi" to 190)

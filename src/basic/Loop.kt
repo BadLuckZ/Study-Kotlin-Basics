@@ -1,3 +1,5 @@
+package basic
+
 fun main() {
     // for loop
     for (num: Int in 1..5) {

@@ -1,3 +1,5 @@
+package basic
+
 fun main() {
     val number: Int
     val checked: Boolean = false

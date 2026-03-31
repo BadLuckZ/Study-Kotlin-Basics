@@ -1,3 +1,5 @@
+package basic
+
 fun main() {
     // Immutable Set: Set<DataType>
     val readOnlyFruits: Set<String> = setOf("Apple", "Banana", "Cherry", "Cherry", "Pineapple")

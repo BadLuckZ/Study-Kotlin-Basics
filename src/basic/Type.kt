@@ -1,3 +1,5 @@
+package basic
+
 fun main(){
     // Byte Short Int Long for "Integers"
     // Float Double for "Floats"

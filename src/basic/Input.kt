@@ -1,3 +1,5 @@
+package basic
+
 fun main() {
     println("What's your name?")
     var name = readln()

@@ -1,6 +1,8 @@
+package basic
+
 class Contact(var id: Int, var name: String, var email: String) {
     fun showId(){
-        println("Contact id is $id")
+        println("basic.Contact id is $id")
     }
 }
 

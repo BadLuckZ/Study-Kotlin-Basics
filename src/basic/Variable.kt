@@ -1,3 +1,5 @@
+package basic
+
 fun main() {
     // "val" is like "const" in typescript - Immutable
     val popcorn = 5

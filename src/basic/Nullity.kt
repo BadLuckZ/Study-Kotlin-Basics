@@ -1,3 +1,5 @@
+package basic
+
 fun main() {
     var nonNullString: String = "Hello, World!"
     var nullableString: String? = null

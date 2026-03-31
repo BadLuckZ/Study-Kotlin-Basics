@@ -1,3 +1,5 @@
+package basic
+
 fun main() {
     // Immutable List: List<DataType>
     val readOnlyShapes: List<String> = listOf("Triangle", "Square", "Circle")
